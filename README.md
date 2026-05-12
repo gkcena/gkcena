@@ -70,7 +70,7 @@ geceleri ise Proxmox'ta sanal makineler koşturup Fortinet firewall'larıyla bo�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gkcena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-g%C3%B6k%C3%A7en-akg%C3%BCl-a55197265/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gkcen.aa)
 
 </div>
