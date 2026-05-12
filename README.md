@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Cena+%F0%9F%91%8B;Backend+%2B+Network+%3D+%E2%9D%A4%EF%B8%8F;Paketler+kaybolmaz%2C+sadece+yeniden+rota+bulur+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Gökçen+%F0%9F%91%8B;Backend+%2B+Network+%3D+%E2%9D%A4%EF%B8%8F;Paketler+kaybolmaz%2C+sadece+yeniden+rota+bulur+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 ---
