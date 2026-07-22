@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Gökçen+%F0%9F%91%8B;Backend+%2B+Network+%3D+%E2%9D%A4%EF%B8%8F;Paketler+kaybolmaz%2C+sadece+yeniden+rota+bulur+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Gökçen+%F0%9F%91%8B;Game+Developer+%7C+Unity+%2B+C%23;Her+dünya+bir+sistemdir%2C+ben+onu+kurarım+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,32 +9,33 @@
 
 ```bash
 $ whoami
-> Bilgisayar Mühendisi | Backend Dev | Network Enthusiast
+> Bilgisayar Mühendisi | Game Developer | Unity & C# Enthusiast
 ```
 
-Kod yazarken bir yandan da paketlerin nereye gittiğini merak eden biriyim. 
-Spring Boot ile backend geliştiriyor, Angular & Ionic ile arayüzler tasarlıyor;
-geceleri ise Proxmox'ta sanal makineler koşturup Fortinet firewall'larıyla boğuşuyorum. 🔥
+Oyun geliştirmeye tutkulu bir bilgisayar mühendisiyim. Unity ile oynanış mekanikleri, 
+sistem tasarımı ve oyun içi yapay zeka üzerine çalışıyorum. Backend (Spring Boot) ve 
+ağ altyapısı geçmişim sayesinde multiplayer/server-side oyun sistemlerine de rahat 
+adapte olabiliyorum. Yeni mezunum ve bir oyun stüdyosunda üretime katkı sağlamak 
+istiyorum. 🎮
 
 ---
 
 ## 🛠️ Teknoloji Yığınım
 
-**Backend & Frontend**
+**Oyun Geliştirme**
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ShaderLab](https://img.shields.io/badge/Shaders-8A2BE2?style=for-the-badge&logo=unity&logoColor=white)
+
+**Backend & Sistemler** *(multiplayer/server-side altyapısı için avantaj)*
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Network & Güvenlik**
+**Sistemler & Altyapı**
 
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Sanallaştırma**
-
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
@@ -42,14 +43,16 @@ geceleri ise Proxmox'ta sanal makineler koşturup Fortinet firewall'larıyla bo�
 
 ## 🚀 Öne Çıkan Proje
 
-### 🚚 FastDel
-> Kurye yönetimi ve optimize rota sistemi — Spring Boot · Angular · Ionic · Google Maps API
+### 🌑 Edge of Dark
+> Unity ile geliştirilmiş survival strategy oyunu — bitirme projesi
 
-- 📦 Barkod tabanlı sipariş atama sistemi
-- 🗺️ Gerçek zamanlı trafik verisiyle rota optimizasyonu
-- 📍 Canlı kurye takibi
-- 🔐 JWT tabanlı rol yönetimi (Admin / Görevli / Kurye)
-- 📱 Cross-platform mobil uygulama
+- 🌍 [Açık dünya / prosedürel harita sistemi — kısaca ne yaptığını yaz]
+- 🤖 [Düşman AI / davranış ağacı sistemi — varsa]
+- 🎒 [Envanter, crafting, kaynak yönetimi sistemi — varsa]
+- 💾 [Save/load sistemi — varsa]
+- 🎨 Custom shader'lar (ShaderLab, HLSL) ile görsel efektler
+
+🔗 [Repo'yu incele](https://github.com/gkcena/edge-of-dark)
 
 ---
 
@@ -80,5 +83,5 @@ geceleri ise Proxmox'ta sanal makineler koşturup Fortinet firewall'larıyla bo�
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gkcena&color=00d4ff&style=flat-square" alt="Profil görüntülenme"/>
   
-  *"Ağda kaybolmayan paket yoktur, sadece rota bulamayan vardır."* 🌐
+  *"İyi bir oyun, oynanmadan önce zihinde kurulur."* 🎮
 </div>
